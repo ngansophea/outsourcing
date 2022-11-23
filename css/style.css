@@ -842,7 +842,7 @@ span.about-no {
 #mt_about .about-content span{padding-left: 50px;}
 }
 
-section#choose_us.about_choose_us {
+section#our_value.about_choose_us {
   padding-bottom: 0;
 }
 
@@ -1628,7 +1628,7 @@ section#const-team .slick-prev:before, section#const-team .slick-next:before{
 /*          Choose Us        */
 /* ============================= */
 
-section#choose_us{
+section#our_value{
   padding-top: 45px;
 }
 
@@ -1668,7 +1668,7 @@ section#choose_us{
 @media(max-width: 991px){
   .choose-list{margin-bottom: 30px;}
 
-  section#choose_us{padding-bottom: 0;}
+  section#our_value{padding-bottom: 0;}
 
   .choose-list i{top: 24%;}
 
